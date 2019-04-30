@@ -15,6 +15,8 @@ import java.util.Locale;
 * Activity can then use the BoundService to do whatever
 */
 
+// Bound Service for connecting to client into text box, eg triggered by an onClick
+
 public class PNJBoundService extends Service {
 
     private final IBinder pnjBinder = new PNJLocalBinder();
