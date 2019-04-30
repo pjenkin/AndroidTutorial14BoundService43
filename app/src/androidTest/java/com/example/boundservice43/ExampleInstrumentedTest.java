@@ -1,4 +1,4 @@
-package com.example.boundservice;
+package com.example.boundservice43;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
